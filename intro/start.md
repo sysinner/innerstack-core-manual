@@ -15,6 +15,6 @@
 
 ### InnerStack PaaS Engine 标准工作流
 
-1. [Create new Pod Instance](pod-new.md)
-2. [Create new AppSpec, or select exsiting AppSpec](app-spec-define.md)
-3. [Launch new App Instance from AppSpec](app-new.md)
+1. [Create new Pod Instance](pod/new.md)
+2. [Create new AppSpec, or select exsiting AppSpec](app/spec-define.md)
+3. [Launch new App Instance from AppSpec](app/new.md)
