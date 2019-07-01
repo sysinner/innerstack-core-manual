@@ -1,6 +1,6 @@
 ### Create new Pod Instance
 
-Pod是容器集合. 大部分PaaS系统以技术栈封装各类容器时环境(如 Java, Python, PHP), 在这基础上再集成各类应用软件，最终的交付实体是包括全部环境和依赖包的容器镜像; 而在 Sysinner 中容器仅限于系统级的运行环境，其它所有的运行时环境，数据库，应用程序都统一由 [inPack](//gdoc/view/inpack/) 打包管理, 所以 Sysinner Pod 类似传统意义上的操作系统，一个接近零损耗的OS环境.
+Pod是容器集合. 大部分PaaS系统以技术栈封装各类容器时环境(如 Java, Python, PHP), 在这基础上再集成各类应用软件，最终的交付实体是包括全部环境和依赖包的容器镜像; 而在 Sysinner 中容器仅限于系统级的运行环境，其它所有的运行时环境，数据库，应用程序都统一由 [inPack](../../../view/inpack/) 打包管理, 所以 Sysinner Pod 类似传统意义上的操作系统，一个接近零损耗的OS环境.
 
 #### Workflow Essentials
 
