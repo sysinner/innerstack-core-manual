@@ -21,7 +21,7 @@ AppSpec 是一个配置规范，大致相当于加强版的 Kubernetes-Pod-Manif
 4. 定义配置依赖, 内置配置管理工具，配置自动分发到Pod，Pod通过配置信息取得自身的配置参数，以及发现其它依赖服务的地址参数
 5. 定义容器内部的定制脚本 (Pod/Executor), InnerStack 容器的启动入口为系统自带的 inagent　守护进程，由 inagent 按照配置完成内部服务的启动，计划执行.
 
-> 更详细的 AppSpec 配置规范可以参考 [AppSpec Define](../../view/si/app-spec-define.md), 或者参考官方的 App Center 实例 [App Center](https://www.sysinner.com/si/app/)
+> 更详细的 AppSpec 配置规范可以参考 [AppSpec Define](../../view/si/app/spec-define.md), 或者参考官方的 App Center 实例 [App Center](https://www.sysinner.com/si/app/)
 
 #### 2. InnerStack Pod
 
