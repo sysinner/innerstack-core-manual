@@ -198,7 +198,7 @@ W 2020-10-16 21:05:49.810478 main.go:81] waiting initialization
 也可以通过本地命令 ```innerstack info``` 查看本地环境参数信息
 
 
-### 初始化 zone
+### 初始配置
 
 如上，系统已经正常启动并等待初始配置，第1个 InnerStack 宿主节点需要执行 zone-init 初始化操作，如下:
 
@@ -227,7 +227,7 @@ zone successfully initialized
 这个命令只在第一次建立 InnerStack 集群时使用一次，后续安装的 innerstack 节点则通过 innerstack host-join 命令加入宿主节点，详细参数可通过 ```innerstack host-join --help``` 获取帮助信息. 
 
 
-### 登录管理面板
+## 登录管理面板
 
 登录系统后，会看到一个空的 Pod 列表页:
 

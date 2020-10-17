@@ -15,11 +15,14 @@ Pod是容器集合. 大部分PaaS系统以技术栈封装各类容器时环境(�
 > 详细操作请参考 [Create new App Instance](app/new.md)
 
 #### 创建一个空的 Pod Instance
+
 如图，在 inPanel - Pods 中点击 **Create Pod Instance**
-![pod-new](assets/pod-list-w800.png)
+
+![pic](ops/assets/ops-install-pod-list.cmp.png)
 
 如图, 创建过程需要考虑 Pod 对资源的使用需求，点击提交即可.
-![pod-new](assets/pod-new-w800.png)
+
+![pic](ops/assets/ops-install-pod-new.cmp.png)
 
 创建过程可能遇到的问题:
 
