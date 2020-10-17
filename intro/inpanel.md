@@ -14,7 +14,7 @@ inPanel 基于浏览器的可视化操作接口，面向普通用户 (Developer,
 ![App Management](app/assets/app-list.cmp.png)
 
 #### Package Management
-![Package Management](inpack/assets/inpack-list.png)
+![Package Management](inpack/assets/inpack-list.cmp.png)
 
 #### Resource Management
 ![Resource Management](ext/assets/domain-list.cmp.png)
