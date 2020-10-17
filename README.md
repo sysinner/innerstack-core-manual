@@ -39,3 +39,13 @@ InnerStack 创建了 [inPack](../../view/inpack/) 项目, 用来打包，分发�
 * 可以访问官方网站的 [Pack Center](https://www.sysinner.com/si/inpack) 查阅当前已经打包的软件项目, 所有软件包的源代码可以访问 [https://github.com/inpack/](https://github.com/inpack) 获取
 * inPack Server 索引并存储集群所有包，支持 Channel 归类 (beta, release, ...)
 
+
+## 联系
+
+InnerStack PaaS Engine 当前处于 BETA 阶段, 如有问题欢迎联系交流:
+
+* 邮件 evorui#gmail.com
+* 腾讯微信 @ruilog
+* 新浪微博 @ruilog
+
+
