@@ -1,5 +1,6 @@
 # 介绍
-* [快速入门] (intro/start.md)
+* [简介] (README.md)
+* [安装] (ops/install.md)
 * [inPanel 管理面板] (intro/inpanel.md)
 * [依赖项目] (intro/depends.md)
 
@@ -15,6 +16,6 @@
 # inPack
 * [包管理工具] (inpack/index.md)
 
-# Ops (运营人员)
+# Ops (运维)
 * [集群管理] (ops/host/cluster.md)
 * [Pod SpecPlan 管理] (ops/pod/plan.md)
