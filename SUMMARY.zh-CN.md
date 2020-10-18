@@ -5,12 +5,12 @@
 * [依赖项目] (intro/depends.md)
 
 # Pod
-* [创建新实例]  (pod/new.md)
+* [部署 Pod 实例]  (pod/new.md)
 * [实例详情]  (pod/info.md)
 
 # App
 * [AppSpec 定义] (app/spec-define.md)
-* [启动新实例] (app/new.md)
+* [部署 App 实例] (app/new.md)
 * [实例详情] (app/info.md)
 
 # inPack

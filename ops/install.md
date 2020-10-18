@@ -24,14 +24,17 @@ InnerStack 是一个分布式 PaaS 平台引擎，支持从 1 ~ N 个宿主节�
 
 ### 系统环境
 
-确认操作系统版本，并更新系统到最新
+更新系统到最新版本:
 
 ``` shell
-[root@VM-0-8-centos ~]# cat /etc/redhat-release
-CentOS Linux release 8.2.2004 (Core) 
+yum update -y
 
-[root@VM-0-8-centos ~]# yum update -y
+# ... ...
 
+cat /etc/redhat-release
+
+# 输出
+CentOS Linux release 8.2.2004 (Core)
 ```
 
 ### 数据盘配置
@@ -57,7 +60,7 @@ Sector size (logical/physical): 512 bytes / 512 bytes
 I/O size (minimum/optimal): 512 bytes / 512 bytes
 ```
 
-如上, /dev/vdb 这个设备就是需要配置的数据盘.
+如上 ```Disk /dev/vdb``` 这个设备就是需要配置的数据盘.
 
 
 分区:
