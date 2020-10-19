@@ -1,12 +1,12 @@
 # 介绍
 * [简介] (README.md)
-* [安装] (ops/install.md)
+* [快速安装] (ops/install.md)
 * [inPanel 管理面板] (intro/inpanel.md)
-* [依赖项目] (intro/depends.md)
 
 # Pod
 * [部署 Pod 实例]  (pod/new.md)
 * [实例详情]  (pod/info.md)
+* [远程访问Pod]  (pod/ssh.md)
 
 # App
 * [AppSpec 定义] (app/spec-define.md)

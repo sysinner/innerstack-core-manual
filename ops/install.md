@@ -206,7 +206,7 @@ W 2020-10-16 21:05:49.810478 main.go:81] waiting initialization
 如上，系统已经正常启动并等待初始配置，第1个 InnerStack 宿主节点需要执行 zone-init 初始化操作，如下:
 
 ``` shell
-innerstack zone-init --host-addr 172.21.0.6:9529 --wan-ip 49.233.25.33 --http-port 9530 --zone-id z1 --cell-id g1
+innerstack zone-init --zone-id z1 --cell-id g1 --host-addr 172.21.0.6 --wan-ip 49.233.25.33
 
 zone successfully initialized
   inPanel Management
