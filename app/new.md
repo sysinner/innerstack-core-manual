@@ -6,6 +6,6 @@ InnerStack 根据各个业务具体场景，提供了部分典型的 AppSpec 方
 
 * AppSpec 应用构建实践文档 [https://www.sysinner.cn/gdoc/view/app-guide/](https://www.sysinner.cn/gdoc/view/app-guide/)
 * AppCenter 在线实例 [https://www.sysinner.cn/si/app](https://www.sysinner.cn/si/app)
-* PackCenter 依赖的包 [https://www.sysinner.cn/si/inpack](https://www.sysinner.com/si/inpack)
+* PackCenter 依赖的包 [https://www.sysinner.cn/si/inpack](https://www.sysinner.cn/si/inpack)
 
 

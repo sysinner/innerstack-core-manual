@@ -23,7 +23,7 @@ AppSpec 是一个配置规范，大致相当于加强版的 Kubernetes-Pod-Manif
 4. 定义配置依赖, 内置配置管理工具，配置自动分发到Pod，Pod通过配置信息取得自身的配置参数，以及发现其它依赖服务的地址参数
 5. 定义容器内部的定制脚本 (Pod/Executor), InnerStack 容器的启动入口为系统自带的 inagent　守护进程，由 inagent 按照配置完成内部服务的启动，计划执行.
 
-> 更详细的 AppSpec 配置规范可以参考 [AppSpec Define](../../view/si/app/spec-define.md), 或者参考官方的 App Center 实例 [App Center](https://www.sysinner.com/si/app/)
+> 更详细的 AppSpec 配置规范可以参考 [AppSpec Define](../../view/si/app/spec-define.md), 或者参考官方的 App Center 实例 [App Center](https://www.sysinner.cn/si/app/)
 
 #### 2. InnerStack Pod
 
@@ -36,16 +36,7 @@ AppSpec 是一个配置规范，大致相当于加强版的 Kubernetes-Pod-Manif
 InnerStack 创建了 [inPack](../../view/inpack/) 项目, 用来打包，分发，同步各类运行环境，中间件，应用软件
 
 * 有关 inPack 操作详细，请参考 [inPack文档](../../view/inpack/)
-* 可以访问官方网站的 [Pack Center](https://www.sysinner.com/si/inpack) 查阅当前已经打包的软件项目, 所有软件包的源代码可以访问 [https://github.com/inpack/](https://github.com/inpack) 获取
+* 可以访问官方网站的 [Pack Center](https://www.sysinner.cn/si/inpack) 查阅当前已经打包的软件项目, 所有软件包的源代码可以访问 [https://github.com/inpack/](https://github.com/inpack) 获取
 * inPack Server 索引并存储集群所有包，支持 Channel 归类 (beta, release, ...)
-
-
-## 联系
-
-InnerStack PaaS Engine 当前处于 BETA 阶段, 如有问题欢迎联系交流:
-
-* 邮件 evorui#gmail.com
-* 腾讯微信 @ruilog
-* 新浪微博 @ruilog
 
 

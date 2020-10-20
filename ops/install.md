@@ -288,11 +288,3 @@ Swap:             0           0           0
 * [inPack 包管理](https://www.sysinner.cn/gdoc/view/inpack/)
 
 
-> 注: InnerStack PaaS Engine 当前处于 BETA 阶段, 如有问题欢迎联系交流:
->
-> * 邮件 evorui#gmail.com
-> * 腾讯微信 @ruilog
-> * 新浪微博 @ruilog
-
-
-

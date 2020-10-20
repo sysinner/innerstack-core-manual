@@ -40,13 +40,5 @@ Swap:             0           0           0
 [action@sysinner ~]$ 
 ```
 
-> Tips: InnerStack 容器环境默认全局用户ID为 action, 不具有 root 权限，如果需要重启容器操作，可以通过如下命令达成 killall inagent
-
-
-> 注: InnerStack PaaS Engine 当前处于 BETA 阶段, 如有问题欢迎联系交流:
->
-> * 邮件 evorui#gmail.com
-> * 腾讯微信 @ruilog
-> * 新浪微博 @ruilog
-
+Tips: InnerStack 容器环境默认全局用户ID为 action, 不具有 root 权限，如果需要重启容器操作，可以通过如下命令达成 killall inagent
 
