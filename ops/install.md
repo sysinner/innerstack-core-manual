@@ -157,9 +157,9 @@ InnerStack 中对 /opt 目录的设置是必要条件，其关键数据的保存
 cat <<< '[docker-ce-stable]
 name=Docker CE Stable - $basearch
 baseurl=https://mirrors.aliyun.com/docker-ce/linux/centos/$releasever/$basearch/stable
+  https://mirrors.cloud.tencent.com/docker-ce/linux/centos/$releasever/$basearch/stable
 enabled=1
-gpgcheck=1
-gpgkey=https://mirrors.aliyun.com/docker-ce/linux/centos/gpg
+gpgcheck=0
 
 [sysinner]
 name=SysInner - InnerStack beta
